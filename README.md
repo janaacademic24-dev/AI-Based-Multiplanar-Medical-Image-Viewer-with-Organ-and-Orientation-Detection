@@ -1,0 +1,2 @@
+# AI-Based-Multiplanar-Medical-Image-Viewer-with-Organ-and-Orientation-Detection
+An AI-powered medical imaging tool that automatically detects the organ and determines the scan’s orientation . The project uses a pretrained AI model and displays the slices in an interactive multiplanar viewer (MPR) with axial, coronal, sagittal, and oblique views.  Users can scroll through slices, zoom in/out, and see dynamic reference lines.
