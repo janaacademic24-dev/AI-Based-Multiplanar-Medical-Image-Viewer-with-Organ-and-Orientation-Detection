@@ -34,15 +34,12 @@ The **Enhanced DICOM Viewer** enables researchers and biomedical engineers to:
 
 ### 🧠 Analysis & Processing
 
-- ROI selection, measurement, and management.  
-- Edge detection (Sobel, Canny) and intensity equalization.  
+- ROI selection, measurement, and management.    
 - Real-time updates across all views.
 
 ---
 
 ## 📸 Screenshots
-
-Below are example sections — replace each image path with your actual screenshots:
 
 | View | Example |
 |------|----------|
