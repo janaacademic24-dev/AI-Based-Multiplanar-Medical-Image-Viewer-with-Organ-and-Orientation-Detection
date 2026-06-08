@@ -1,0 +1,11 @@
+pydicom>=2.3.0
+numpy>=1.24.0
+scipy>=1.10.0
+Pillow>=9.0.0
+opencv-python>=4.7.0
+PyQt5>=5.15.0
+
+# AI inference (at least one required)
+torch>=2.0.0
+torchvision>=0.15.0
+open_clip_torch>=2.20.0   # preferred; falls back to ResNet50 if absent
