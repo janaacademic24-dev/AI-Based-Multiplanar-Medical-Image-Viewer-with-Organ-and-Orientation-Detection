@@ -17,9 +17,9 @@ This tool is built for researchers and biomedical engineers who need to explore 
 
 ## Screenshots
 
-![Main View 1](screenshots/main_view_1.jpg)
-![Main View 2](screenshots/main_view_2.jpg)
-![Main View 3](screenshots/main_view_3.jpg)
+![Main View 1](screenshots/main_view_1.png.jpeg)
+![Main View 2](screenshots/main_view_2.png.jpeg)
+![Main View 3](screenshots/main_view_3.png.jpeg)
 
 ---
 
