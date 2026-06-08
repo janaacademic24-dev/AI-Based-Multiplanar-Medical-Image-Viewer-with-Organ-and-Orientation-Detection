@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28728400/README.md)
 # 🧠 AI-Based Multiplanar Medical Image Viewer
 
 > An AI-powered DICOM viewer that automatically detects organ regions and scan orientation, with interactive multiplanar reconstruction (MPR), oblique slicing, ROI tools, and batch export.
@@ -18,9 +17,9 @@ This tool is built for researchers and biomedical engineers who need to explore 
 
 ## Screenshots
 
-![Main View 1](screenshots/main_view_1.png)
-![Main View 2](screenshots/main_view_2.png)
-![Main View 3](screenshots/main_view_3.png)
+![Main View 1](screenshots/main_view_1.jpg)
+![Main View 2](screenshots/main_view_2.jpg)
+![Main View 3](screenshots/main_view_3.jpg)
 
 ---
 
@@ -147,3 +146,6 @@ Pull requests are welcome. For large changes, please open an issue first to disc
 
 ---
 
+## License
+
+MIT
